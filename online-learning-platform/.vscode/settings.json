@@ -1,0 +1,5 @@
+{
+  "files.exclude": { "**/__pycache__": true, "**/.pytest_cache": true },
+  "python.testing.pytestEnabled": true,
+  "python.testing.cwd": "${workspaceFolder}/backend"
+}
